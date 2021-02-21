@@ -1,0 +1,41 @@
+.nav-link {
+    color: white !important;
+}
+   
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.details-table{
+    border: 2px solid red;
+}
+
+#about{
+    background-color: lemonchiffon;
+    color: white;
+}
+
+#skills{
+    background-color: wheat;
+}
+
+#education{
+    background-color: lightgrey;
+}
+
+.testimonial-heading{
+   text-align: center;
+}
+
+.testimonial-desc{
+   text-align: center;
+}
+
+.testimonial-year{
+   text-align: center; 
+}
+
+#footer{
+    background-color: black;
+}
